@@ -3,7 +3,10 @@
   }
   
   body {
-    background-color: indigo;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    background-image: url('./assets/91657.jpg');
     color: #fff;  
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
